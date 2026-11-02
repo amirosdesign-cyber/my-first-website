@@ -1,0 +1,5 @@
+# Local tooling and system files
+.claude/
+.DS_Store
+.env
+.env.*
